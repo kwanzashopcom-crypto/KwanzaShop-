@@ -93,3 +93,12 @@ Site oficial da KwanzasShop
   <p>Roupas, acessórios, tênis, relógios e telefones.</p>
   <p>Catálogo completo em breve.</p>
 </section>
+<section>
+  <h2>🤝 Programa de Afiliados</h2>
+  <p>Ganha dinheiro vendendo produtos da KwanzasShop.</p>
+  <p>✔ Comissão para afiliados</p>
+  <p>✔ Saque acima de 5.000 Kz</p>
+  <a class="btn" href="https://wa.me/244928874235?text=Quero%20ser%20afiliado" target="_blank">
+    Quero ser afiliado
+  </a>
+</section>
