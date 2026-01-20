@@ -81,3 +81,15 @@ Site oficial da KwanzasShop
 
 </body>
 </html>
+<section id="como-funciona">
+  <h2>Como funciona a KwanzasShop</h2>
+  <p>✔️ Vende produtos online</p>
+  <p>✔️ Ganha comissões como afiliado</p>
+  <p>✔️ Entregas locais com parceiros</p>
+  <p>✔️ Pagamentos em kwanzas</p>
+</section>
+<section>
+  <h2>🛍️ Produtos KwanzasShop</h2>
+  <p>Roupas, acessórios, tênis, relógios e telefones.</p>
+  <p>Catálogo completo em breve.</p>
+</section>
