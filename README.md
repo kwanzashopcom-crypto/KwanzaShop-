@@ -99,7 +99,7 @@ Site oficial da KwanzasShop
   <p>✔ Comissão para afiliados</p>
   <p>✔ Saque acima de 5.000 Kz</p>
   <a class="btn" href="https://wa.me/244928874235?text=Quero%20ser%20afiliado" target="_blank">
-    Quero ser afiliado
+    Quero ser afiliado afilhado 
   </a>
 </section>
 <section>
@@ -110,4 +110,10 @@ Site oficial da KwanzasShop
   <a class="btn" href="https://wa.me/244928874235?text=Quero%20ser%20entregador" target="_blank">
     Quero fazer entregas
   </a>
+</section>
+<section>
+  <h2>📞 Contactos</h2>
+  <p>WhatsApp: +244 928 874 235</p>
+  <p>Luanda – Angola</p>
+  <p>🇦🇴 Empresa 100% Angolana</p>
 </section>
