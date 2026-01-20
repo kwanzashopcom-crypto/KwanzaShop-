@@ -91,7 +91,30 @@ Site oficial da KwanzasShop
 <section>
   <h2>🛍️ Produtos KwanzasShop</h2>
   <p>Roupas, acessórios, tênis, relógios e telefones.</p>
-  <p>Catálogo completo em breve.</p>
+  <div>
+  <h3>Camiseta Masculina</h3>
+  <p>Preço: 7.500 Kz</p>
+  <a class="btn" href="https://wa.me/244928874235?text=Quero%20comprar%20a%20camiseta" target="_blank">
+    Comprar pelo WhatsApp
+  </a>
+</div>
+
+<div>
+  <h3>Tênis Desportivo</h3>
+  <p>Preço: 25.000 Kz</p>
+  <a class="btn" href="https://wa.me/244928874235?text=Quero%20comprar%20o%20tenis" target="_blank">
+    Comprar pelo WhatsApp
+  </a>
+</div>
+
+<div>
+  <h3>Relógio Moderno</h3>
+  <p>Preço: 15.000 Kz</p>
+  <a class="btn" href="https://wa.me/244928874235?text=Quero%20comprar%20o%20relogio" target="_blank">
+    Comprar pelo WhatsApp
+  </a>
+</div>
+
 </section>
 <section>
   <h2>🤝 Programa de Afiliados</h2>
