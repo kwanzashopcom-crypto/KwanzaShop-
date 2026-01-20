@@ -102,3 +102,12 @@ Site oficial da KwanzasShop
     Quero ser afiliado
   </a>
 </section>
+<section>
+  <h2>🚚 Entregadores KwanzasShop</h2>
+  <p>Faça entregas e ganhe dinheiro.</p>
+  <p>✔ 3% a 6% por entrega</p>
+  <p>✔ Pagamentos em Angola</p>
+  <a class="btn" href="https://wa.me/244928874235?text=Quero%20ser%20entregador" target="_blank">
+    Quero fazer entregas
+  </a>
+</section>
